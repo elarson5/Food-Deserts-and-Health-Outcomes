@@ -1,6 +1,7 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Food Deserts and Health Outcomes
 
-> A brief description of what the project does and its purpose.
+> The purpose of this project is to understand how food deserts impact the health outcomes (obesity and diabetes) of the populations that reside in them. Broadly speaking, food deserts are areas with limited access to affordable and or nutritious food. They are often associated with a lower quality of health and life by those that reside in them. To quantify this impact requires careful analysis of food accessibility and public health data. In this project, several indicators of food deserts are used in a multiple regression model to understand their impact on diabetes and obesity. 
+
 
 ---
 
@@ -28,7 +29,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:** (https://www.ers.usda.gov/data-products/food-environment-atlas)
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
