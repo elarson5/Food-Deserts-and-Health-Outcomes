@@ -7,11 +7,11 @@
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+
+- **Objective:** To understand how component indicators of food deserts impact health outcomes of obesity and diabetes.
+- **Domain:** Socioeconomics and healthcare
+- **Key Techniques:** Exploratory analysis of summary statistics and graphing (heatmaps, histograms, linear regression, residual plots); forward stepwise method for linear regression optimal parameter selection; test and train data splitting.
 
 ---
 
@@ -37,7 +37,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Analysis
 
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+
 
 ---
 
@@ -49,7 +49,9 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Emily Larson
+- Jack Neton
+- EJ Bergevin
 
 ---
 
@@ -62,5 +64,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Tools/libraries used
+- - Python
+- - jupyter notebook
+- - pandas package
+- - numby package
+- - seaborn package
+- - plotly package
+- - scipy.stats packages
+- - sklearn packages
+- - mlxtend package
 - Tutorials or papers referenced
 - Inspiration or collaborators
